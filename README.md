@@ -9,6 +9,9 @@ Activity:
 - We should expect that your script will generate CHLOE file and Antony file csvs based on the example above with the same uppercase heading(ZONE,SUB_ENTITY, RAW_FILE_NAME, FILE_SIZE).
 
 Python version : 3.6.8
+
 Data Manipulation Library: pandas
+
+Developed in Red Hat Enterprise Linux release 8.2 (Ootpa), hosted in AWS Cloud
 
 Screenshots are in attachment
